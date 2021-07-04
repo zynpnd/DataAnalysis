@@ -12,10 +12,9 @@ Veri setinde örnek sayısı 858 'dır. Nitelik sayısı ise 36'dır.
  Veri setinine [buradan](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29) ulaşabilirsiniz.
  
  Bu projede hiper parametre ayarlaması, model değerlendirme ve karşılaştırma için şu algoritmalar kullanılmıştır.
----
 
 Kullanılacak Algoritmalar
-
+---
 
 1.   KNN Classifier
 2.   Random Forest Classifier
