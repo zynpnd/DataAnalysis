@@ -1,6 +1,6 @@
 # DataAnalysis
 
-Bu projede ervical cancer (Risk Factors) Data Set  üzerinde veri ön işleme, eksik veri ve aykırı veri tamamlama, özellik seçimi, model seçimi, hiperparametre ayarlama, model değerlendirme ve karşılaştırma yapılmaktadır.
+Bu projede Cervical cancer (Risk Factors) Data Set  üzerinde veri ön işleme, eksik veri ve aykırı veri tamamlama, özellik seçimi, model seçimi, hiperparametre ayarlama, model değerlendirme ve karşılaştırma yapılmaktadır.
 
 >  Kullanılan veri seti : Cervical cancer (Risk Factors) Data Set
 ---
