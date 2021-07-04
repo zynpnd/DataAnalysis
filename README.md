@@ -13,9 +13,11 @@ Veri setinde örnek sayısı 858 'dır. Nitelik sayısı ise 36'dır.
  
  Bu projede hiper parametre ayarlaması, model değerlendirme ve karşılaştırma için şu algoritmalar kullanılmıştır.
 
-Kullanılacak Algoritmalar
+Kullanılan Algoritmalar
 ---
 
 1.   KNN Classifier
 2.   Random Forest Classifier
 3.   YSA
+
+Sonuç olarak KNN, Random Forest ve YSA algoritmaları hiper parametre ayarlaması yapılarak tüm algoritmalarda %83.3333 başarı elde edilmiştir.
